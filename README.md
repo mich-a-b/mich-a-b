@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://community.akamai.steamstatic.com/economy/emoticon/os_niko" alt="Niko">
-<img src="https://community.akamai.steamstatic.com/economy/emoticon/os_pancakes" alt="Pancakes">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhY_jULZPp1M9oGs18kdhia7ueEkXhI5RhA&s" alt="letsGo">
 
 ## Michael Becker
 
